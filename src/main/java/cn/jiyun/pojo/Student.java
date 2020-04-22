@@ -9,6 +9,8 @@ public class Student {
 
     private Integer sid;
     private String sname;
+    private String sex;
+    priate String saddress
 
     public Integer getSid() {
         return sid;
